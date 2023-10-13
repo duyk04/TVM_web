@@ -47,14 +47,24 @@ header{
 section{
     position: relative;
 }
-.content-title{
+/* .content-title{
     width: 965px;
-}
-.content-title h1,
-.content-title pre{
+} */
+.title-box h1,
+.title-box pre{
     color: #023c8c;
 }
-.slider{
-    height: 42px;
-    width: 600px;
+.title-box h1{
+   font-weight: 700;
+}
+.title-box{
+    width: 58rem;
+}
+.main-content{
+    height: max-content;
+    background-color: #f3f3f3;
+}
+.box-content p{
+    color: #023c8c;
+    font-weight: 500;
 }
