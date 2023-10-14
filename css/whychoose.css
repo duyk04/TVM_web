@@ -1,0 +1,26 @@
+.banner-title{
+    width: 42%;
+    height: 20%;
+    top: 24%;
+    left: 10%;
+    text-align: justify;
+   
+}
+.banner-title p{
+    width: 90%;
+}
+/* WHAT IS BLOCKCHAIN? */
+.container-box{
+    /* width: 73.4375% !important; */
+    margin-left:12.75rem;
+    margin-right: 12.75rem;
+}
+.blockchain{
+    width: 68%;
+    font-weight: 600;
+}
+.block-content li{
+    padding-bottom: 1rem;
+    list-style: disc;
+    text-align: justify;
+}
