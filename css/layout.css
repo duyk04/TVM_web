@@ -9,6 +9,12 @@
 html {
     font-size: 20px;
 }
+.container-box{
+    /* width: 73.4375% !important; */
+    margin-left:12.75rem;
+    margin-right: 12.75rem;
+    /* margin: auto; */
+}
 @media (max-width: 767px) {
     .carousel-inner .carousel-item > div {
         display: none;
