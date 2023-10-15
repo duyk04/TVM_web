@@ -14,9 +14,10 @@
     /* width: 73.4375% !important; */
     margin-left:12.75rem;
     margin-right: 12.75rem;
+    /* margin: auto; */
 }
 .blockchain{
-    width: 68%;
+    width: 86%;
     font-weight: 600;
 }
 .block-content li{
@@ -26,5 +27,5 @@
 }
 /* REASONS YOU SHOULD BE CONSIDERING BLOCKCHAIN */
 .reasons h3{
-    font-weight: 700;
+    font-weight: 600;
 }
