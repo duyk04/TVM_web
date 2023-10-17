@@ -1,0 +1,11 @@
+.recent-project a,
+.recent-project h5{
+    color: #00a2ff;
+}
+.proprietary .overlay{
+    background-color: rgba(0, 0, 0, 0.4);
+}
+.proprietary .card:hover .overlay{
+    display: flex !important;
+    cursor: pointer;
+}
