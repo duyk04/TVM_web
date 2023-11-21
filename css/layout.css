@@ -48,3 +48,7 @@ html {
 .carousel-inner .carousel-item-start { 
     transform: translateX(0);
 }
+
+.color-text{
+    color: #c4ac3b !important;
+}
